@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Environment variables
 .env
 
 # IDE settings
 .vscode/
 
+=======
+venv/
+.env
+.vscode/
+>>>>>>> d313a38 (com)
