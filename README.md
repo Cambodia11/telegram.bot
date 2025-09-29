@@ -10,4 +10,4 @@ When the user sends `+`, the bot fetches the current coin price from Binance and
 - 📊 Calculates progress from current portfolio value to the target in %.
 - 💬 Simple interaction: send `+` to get updates.
 
-![Окно результата](images/settings.png)
+![Окно результата](images/tg.jpg)
