@@ -1,5 +1,7 @@
 # 💬 Telegram Bot: Crypto Tracker
 
+[🇷🇺 Читать на русском](README.ru.md)
+
 This bot helps you track cryptocurrency prices and your portfolio progress toward a target.  
 When the user sends `+`, the bot fetches the current coin price from Binance and calculates the portfolio progress in %.  
 
