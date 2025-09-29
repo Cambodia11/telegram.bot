@@ -13,11 +13,11 @@ COINS = ["ZROUSDT", "MEMEUSDT","ZKUSDT","APTUSDT","SANDUSDT"]
 BINANCE_URL = "https://api.binance.com/api/v3/ticker/price"
 
 COL_MONET = {
-    "ZROUSDT": 547.01,
-    "MEMEUSDT": 147032.82,
-    "ZKUSDT": 11841.94,
-    "APTUSDT": 126.78,
-    "SANDUSDT": 4095.02
+    "ZROUSDT": 1111,
+    "MEMEUSDT": 111,
+    "ZKUSDT": 1111,
+    "APTUSDT": 1111,
+    "SANDUSDT": 11111
 }
 
 
